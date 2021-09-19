@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CourseValute</string>
+    <string name="sumRub">Введите сумму в рублях</string>
+    <string name="konvert">Конвертер</string>
+    <string name="name">name</string>
+    <string name="value">value</string>
+</resources>
